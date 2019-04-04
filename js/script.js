@@ -1,5 +1,5 @@
 /* global $ */
-
+/* global game*/
 $(document).ready(function() {
     var firstLevel = game.levels.start;
     renderLevel(firstLevel);
